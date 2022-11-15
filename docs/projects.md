@@ -5,8 +5,7 @@ title: Projects
 
 Embed any notable projects in this page.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+A 3d desk using Maya and blender to illustrate old desk style.
 
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
